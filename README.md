@@ -14,7 +14,6 @@ I started out my career in the .NET/Microsoft space, but in recent years I have 
 * [Bluesky](https://bsky.app/profile/upperdine.dev)
 * [LinkedIn](https://linkedin.com/in/carltonupp)
 * [Reddit](https://reddit.com/u/upperdine)
-* [upperdine.dev](https://upperdine.dev)
 
 
 
