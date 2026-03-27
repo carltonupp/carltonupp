@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a Software Engineer from the UK 🇬🇧 and I currently work at [BJSS - now part of CGI](https://www.bjss.com/).
+I'm a Software Engineer from the UK 🇬🇧 and I currently work at [Razor 🚀](https://www.razor.co.uk/).
 
 Throughout my career I have worn many hats, having worked in technical capabilities such as Software Engineering, QA, SRE/DevOps, Agile Delivery and more recently as a Consultant.
 
